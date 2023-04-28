@@ -1,0 +1,26 @@
+# Archivos de configuración de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+
+# Entorno virtual de Python
+venv/
+env/
+
+# Archivos de configuración de dotenv
+.env
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Carpetas y archivos específicos de IDE/editor
+.vscode/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+*.idea/
